@@ -10,9 +10,10 @@ const Donations = () => {
       .then((data) => setDonations(data));
   }, []);
   return (
-    <section id="donations">
+    <section id="donations" className="pt-8">
       <div className="container">
-        <div className="grid grid-cols-4 gap-4 py-20 md:grid-cols-2">
+        <h2 className="text-6xl font-bold text-center py-8">Our Donations Medium</h2>
+        <div className="grid lg:grid-cols-4 gap-4 py-20 md:grid-cols-2">
             {
                 donations.map( donation => <SingleDonation key={donation.id} donation={donation}></SingleDonation>)
             }

@@ -1,10 +1,12 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 const SingleDonation = ({ donation }) => {
   const { id, text_color, card_bg, category_bg, category, title, picture } =
     donation;
   return (
-    <div className="card card-compact w-full bg-base-100 shadow-xl">
+    <NavLink to={`/donation/${id}`}>
+      <div className="card card-compact w-full bg-base-100 shadow-xl">
       <figure>
         <img className="h-48 w-full"
           src={picture}
@@ -18,6 +20,7 @@ const SingleDonation = ({ donation }) => {
         <h2 className="card-title" style={{color: text_color}}>{title}</h2>
       </div>
     </div>
+    </NavLink>
   );
 };
 

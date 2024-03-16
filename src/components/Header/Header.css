@@ -1,0 +1,13 @@
+/* .navbar .btn-ghost:hover {
+  background-color: transparent;
+} */
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    background-color: transparent;
+    z-index: 999;
+}
+.navbar .menu li {
+    padding: 10px;
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://source.unsplash.com/featured/?donate-water",
+    "title": "Clean Water Initiative",
+    "category": "Water",
+    "category_bg": "#9CBCFF",
+    "card_bg": "#D1E0FF",
+    "text_color": "#0052FF",
+    "description": "Provide clean and safe drinking water to communities in need.",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "picture": "https://source.unsplash.com/featured/?donate-food",
+    "title": "Education for All",
+    "category": "Water",
+    "category_bg": "#9CBCFF",
+    "card_bg": "#D1E0FF",
+    "text_color": "#0052FF",
+    "description": "Support educational programs to ensure every child has access to quality education.",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "picture": "https://source.unsplash.com/featured/?donate-drinks",
+    "title": "Food Security Project",
+    "category": "Water",
+    "category_bg": "#9CBCFF",
+    "card_bg": "#D1E0FF",
+    "text_color": "#0052FF",
+    "description": "Help combat hunger by providing nutritious meals to families facing food insecurity.",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "picture": "https://source.unsplash.com/featured/?donate-milk",
+    "title": "Medical Relief Fund",
+    "category": "Water",
+    "category_bg": "#9CBCFF",
+    "card_bg": "#D1E0FF",
+    "text_color": "#0052FF",
+    "description": "Support medical assistance and healthcare services for those in need of urgent care.",
+    "price": 40
+  },
+  {
+    "id": 5,
+    "picture": "https://source.unsplash.com/featured/donate-money",
+    "title": "Rural Development Program",
+    "category": "Education",
+    "category_bg": "#FFC5B2",
+    "card_bg": "#FFEAE3",
+    "text_color": "#F87147",
+    "description": "Empower rural communities with sustainable development projects.",
+    "price": 35
+  },
+  {
+    "id": 6,
+    "picture": "https://source.unsplash.com/featured/?donate-coin",
+    "title": "Animal Welfare Initiative",
+    "category": "Education",
+    "category_bg": "#FFC5B2",
+    "card_bg": "#FFEAE3",
+    "text_color": "#F87147",
+    "description": "Provide care and protection for animals in need.",
+    "price": 20
+  },
+  {
+    "id": 7,
+    "picture": "https://source.unsplash.com/featured/?donate-foods",
+    "title": "Environmental Conservation Project",
+    "category": "Education",
+    "category_bg": "#FFC5B2",
+    "card_bg": "#FFEAE3",
+    "text_color": "#F87147",
+    "description": "Support efforts to preserve and protect the environment for future generations.",
+    "price": 45
+  },
+  {
+    "id": 8,
+    "picture": "https://source.unsplash.com/featured/?donate-home",
+    "title": "Women's Empowerment Campaign",
+    "category": "Education",
+    "category_bg": "#FFC5B2",
+    "card_bg": "#FFEAE3",
+    "text_color": "#F87147",
+    "description": "Promote gender equality and empower women through education and opportunities.",
+    "price": 55
+  },
+  {
+    "id": 9,
+    "picture": "https://source.unsplash.com/featured/?donate-education",
+    "title": "Youth Leadership Program",
+    "category": "Food",
+    "category_bg": "#D7FFB8",
+    "card_bg": "#EFFFE2",
+    "text_color": "#79C23F",
+    "description": "Foster leadership skills and personal development among youth.",
+    "price": 40
+  },
+  {
+    "id": 10,
+    "picture": "https://source.unsplash.com/featured/?donate-money",
+    "title": "Art for Social Change",
+    "category": "Food",
+    "category_bg": "#D7FFB8",
+    "card_bg": "#EFFFE2",
+    "text_color": "#79C23F",
+    "description": "Support artists and creative projects aimed at driving social change.",
+    "price": 30
+  },
+  {
+    "id": 11,
+    "picture": "https://source.unsplash.com/featured/?donate-shelter",
+    "title": "Elderly Care Program",
+    "category": "Food",
+    "category_bg": "#D7FFB8",
+    "card_bg": "#EFFFE2",
+    "text_color": "#79C23F",
+    "description": "Provide care and assistance to elderly individuals in need.",
+    "price": 35
+  },
+  {
+    "id": 12,
+    "picture": "https://source.unsplash.com/featured/?donation",
+    "title": "Disaster Relief Fund",
+    "category": "Food",
+    "category_bg": "#D7FFB8",
+    "card_bg": "#EFFFE2",
+    "text_color": "#79C23F",
+    "description": "Offer aid and support to communities affected by natural disasters.",
+    "price": 25
+  }
+]

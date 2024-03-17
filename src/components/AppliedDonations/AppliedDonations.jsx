@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import { getStoredDonations } from "../../utlity/localStorage";
 import AppliedDonation from "../AppliedDonation/AppliedDonation";
+import { Helmet } from "react-helmet-async";
 
 const AppliedDonations = () => {
   const donations = useLoaderData();
@@ -26,6 +27,9 @@ const AppliedDonations = () => {
 
   return (
     <div  className="py-44">
+      <Helmet>
+        <title>Applied Dontaions</title>
+      </Helmet>
       <div className=" container grid grid-cols-2 gap-6">
       {
         appliedDonation.map(d => <AppliedDonation key={d.id} d={d}></AppliedDonation>)
